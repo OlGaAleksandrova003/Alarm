@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Будильник</string>
+    <string name="add_alarm">Создание будильника</string>
+    <string name="repeat">Повтор</string>
+    <string name="sound">Мелодия</string>
+    <string name="item_list_title">%s, %s</string>
+    <string name="default_alarm_name">"Будильник!"</string>
+    <string name="description">Описание</string>
+    <string name="choose_description">Выбрать описание</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="turn_off">Выключить</string>
+    <string name="divider">Divider</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+    <string name="nothing_set">Нет активных будильников</string>
+    <string name="days_remaining">%s дней</string>
+    <string name="day_remaining">%s день</string>
+    <string name="snooze">Продлить</string>
+    <string name="add_some_description">Добавить описание для будильника</string>
+    <string name="non_repeatable">Без повторов</string>
+    <string name="monday_short">Пн</string>
+    <string name="tuesday_short">Вт</string>
+    <string name="wednesday_short">Ср</string>
+    <string name="thursday_short">Чт</string>
+    <string name="friday_short">Пт</string>
+    <string name="saturday_short">Сб</string>
+    <string name="sunday_short">Вс</string>
+    <string name="alarm">Будильник!!!</string>
+    <string name="less_minute">Меньше минуты</string>
+</resources>
